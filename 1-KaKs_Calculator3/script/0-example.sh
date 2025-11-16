@@ -2,11 +2,11 @@
 # Template for running KnKs and KaKs Calculator
 
 # todo 软件所在目录
-BASE_DIR="/mnt/e/Scientifc_software/KaKs_Calculator3.0"
+BASE_DIR="/mnt/f/OneDrive/文档（科研）/脚本/Download/4-dNdS-KaKs/1-KaKs_Calculator3"
 
 # todo 修改输入和输出文件路径
-NONCODING_FILE="${BASE_DIR}/examples/noncoding.axt"
-CODING_FILE="${BASE_DIR}/examples/coding.axt"
+NONCODING_FILE="${BASE_DIR}/conf/noncoding.axt"
+CODING_FILE="${BASE_DIR}/conf/coding.axt"
 OUTPUT_DIR="${BASE_DIR}/output"
 KNKS_OUTPUT="${OUTPUT_DIR}/test.axt.knks"
 KAKS_OUTPUT="${OUTPUT_DIR}/test.axt.kaks"
